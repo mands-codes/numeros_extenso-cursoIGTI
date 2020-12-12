@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h2{
+    text-align: center;
+    color: aqua;
+}
+
+.container{
+    margin: 5%;
+}
